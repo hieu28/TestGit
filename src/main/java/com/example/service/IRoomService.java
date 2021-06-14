@@ -1,4 +1,4 @@
-package com.example.sevice;
+package com.example.service;
 
 import com.example.model.dto.RoomDTO;
 

@@ -3,7 +3,7 @@ package com.example.sevice.impl;
 import com.example.model.dto.RoomDTO;
 import com.example.model.entities.RoomEntity;
 import com.example.repository.RoomRepository;
-import com.example.sevice.IRoomService;
+import com.example.service.IRoomService;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
