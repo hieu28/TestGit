@@ -1,6 +1,6 @@
 package com.example.controller;
 
-import com.example.entity.Department;
+import com.example.model.entity.Department;
 import com.example.service.DepartmentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.validation.annotation.Validated;
