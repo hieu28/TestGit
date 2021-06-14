@@ -18,7 +18,8 @@ dependencies {
     implementation group: 'org.modelmapper', name: 'modelmapper', version: '2.3.0'
     implementation group: 'mysql', name: 'mysql-connector-java', version: '8.0.25'
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
-    testImplementation('org.springframework.boot:spring-boot-starter-test') {
+    testImplementation('org.springframework.boot:spring-boot-starter-test')
+            {
         exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
     }
 }
