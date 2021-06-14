@@ -1,7 +1,7 @@
 package com.example.service;
 
 
-import com.example.entity.Department;
+import com.example.model.entity.Department;
 import com.example.repository.DepartmentRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

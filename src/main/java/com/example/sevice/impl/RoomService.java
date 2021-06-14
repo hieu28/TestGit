@@ -1,7 +1,7 @@
 package com.example.sevice.impl;
 
 import com.example.model.dto.RoomDTO;
-import com.example.model.entities.RoomEntity;
+import com.example.model.entity.RoomEntity;
 import com.example.repository.RoomRepository;
 import com.example.sevice.IRoomService;
 import org.modelmapper.ModelMapper;
